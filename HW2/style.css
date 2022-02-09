@@ -1,0 +1,50 @@
+body {
+    color: #7f7caf;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #eeeeff;
+    font-size: 18pt;
+
+}
+
+nav {
+    word-spacing: 20px;
+    text-align: center;  
+}
+
+button {
+    background-color: #9FB4C7; 
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+
+h1 {
+    color:#eeeeff;  
+    background-color: #28587b;
+    text-align: center;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 22pt;
+    font-style: italic;
+}
+
+a {
+    color : #eeeeff;
+}
+
+p {
+    color:#eeeeff;  
+    background-color: #28587b;
+    text-align: center;
+
+}
+
