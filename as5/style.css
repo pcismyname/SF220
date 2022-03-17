@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #333333;
+    color: #eaeaea;
+}
+
+
+#gallery {
+    width: 800px;
+}
+
+#gallery ul{
+    list-style-type: none;
+    width: 300px;
+    float: left;
+}
+
+#gallery  li{
+    display: inline;
+    margin: 16px;
+    float: left;
+
+} 
+
+#gallery img{
+    border: none;
+    text-align: center;
+}
+
+#gallery figure {
+    padding-top: 30px;
+}
+
+#gallery figcaption {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
